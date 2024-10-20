@@ -7,4 +7,4 @@ The machine learning models was built using Google Colaboratory. Various ML mode
 
 The project was implemented in Raspberry Pi 4B, the sensors used are 3 Raspberry Pi NoIR Camera with a light support of 940 nm IR led for the NoIR camera to see in the enclosed dark chamber.
 
-See the "brochure" file for further understanding of the project.
+See the "diagram" file for further understanding of the project.
